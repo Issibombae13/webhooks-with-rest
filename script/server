@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Usage: script/server
 # Starts a server for development purposes inside a docker container.
 
